@@ -25,12 +25,14 @@ We also welcome contributions! If you know of relevant papers that should be inc
 ## Isolated Agents
 
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) by Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen. 2024
-- 
+- [Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/abs/2501.06322) by Khanh-Tung Tran, Dung Dao, Minh-Duong Nguyen, Quoc-Viet Pham, Barry O'Sullivan, Hoang D. Nguyen. 2025
 
 
 
 
 ## Human-driven Agentic Workflows
+- [Single-agent or Multi-agent Systems? Why Not Both?](https://arxiv.org/pdf/2505.18286) by Mingyan Gao, Yanzi Li, Banruo Liu, Yifan Yu, Phillip Wang, Ching-Yu Lin, Fan Lai. 2025
+
 
 
 ## Agent-assisted Agentic workflows
@@ -39,6 +41,7 @@ We also welcome contributions! If you know of relevant papers that should be inc
 
 
 ## Co-governance by humans and agents
+- [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444) by Xunjian Yin, Xinyi Wang, Liangming Pan, Li Lin, Xiaojun Wan, William Yang Wang. 2025
 
 
 
