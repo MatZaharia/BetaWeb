@@ -1,4 +1,4 @@
-# <img src="./figs/Logo.png" alt="Logo" width="25" height="25" style="vertical-align: middle;"> BetaWeb: Towards a Blockchain-enabled Trust-worthy Agentic Web
+# <img src="./docs/images/Logo.png" alt="Logo" width="25" height="25" style="vertical-align: middle;"> BetaWeb: Towards a Blockchain-enabled Trust-worthy Agentic Web
 
 **[Zihan Guo](#)<sup>1,2</sup>   [Yuanjian Zhou](#)<sup>1</sup>   [Chenyi Wang](#)<sup>1,3</sup>   [Linlin You](#)<sup>2</sup>   [Minjie Bian](#)<sup>4</sup>   [Weinan Zhang](#)<sup>1,5\*</sup>**
 
@@ -15,31 +15,32 @@ If your work is featured here and you would prefer it not to be included, feel f
 We also welcome contributions! If you find relevant papers that should be included here, please submit a PR. We'll review all suggestions promptly and update the list accordingly.
 
 **Content**
-- [Intro](#intro)
-- [Isolated Silos](#isolated-silos)
-  - [Communication Protocol](#communication-protocol)
-  - [Agentic Workflow](#agentic-workflow)
-  - [Domain-specific Agents](#domain-specific-agents)
-  - [Agentic AI](#agentic-ai)
-- [Pilot Decentralization](#pilot-decentralization)
-  - [About Blockchain](#about-blockchain)
-  - [About LaMAS](#about-lamas)
-- [Assisted Execution](#assisted-execution)
-  - [About Blockchain](#about-blockchain-1)
-  - [About LaMAS](#about-lamas-1)
-- [Co-governance by humans and agents](#co-governance-by-humans-and-agents)
-  - [About Blockchain](#about-blockchain-2)
-  - [About LaMAS](#about-lamas-2)
-- [Self-governance of Fully Autonomous Agents](#self-governance-of-fully-autonomous-agents)
-  - [About Blockchain](#about-blockchain-3)
-  - [About LaMAS](#about-lamas-3)
+- [ BetaWeb: Towards a Blockchain-enabled Trust-worthy Agentic Web](#-betaweb-towards-a-blockchain-enabled-trust-worthy-agentic-web)
+  - [Intro](#intro)
+  - [Isolated Silos](#isolated-silos)
+    - [Communication Protocol](#communication-protocol)
+    - [Agentic Workflow](#agentic-workflow)
+    - [Domain-specific Agents](#domain-specific-agents)
+    - [Agentic AI](#agentic-ai)
+  - [Pilot Decentralization](#pilot-decentralization)
+    - [About Blockchain](#about-blockchain)
+    - [About LaMAS](#about-lamas)
+  - [Assisted Execution](#assisted-execution)
+    - [About Blockchain](#about-blockchain-1)
+    - [About LaMAS](#about-lamas-1)
+  - [Hybrid Governance](#hybrid-governance)
+    - [About Blockchain](#about-blockchain-2)
+    - [About LaMAS](#about-lamas-2)
+  - [Self-governance of Fully Autonomous Agents](#self-governance-of-fully-autonomous-agents)
+    - [About Blockchain](#about-blockchain-3)
+    - [About LaMAS](#about-lamas-3)
   - [Citation](#citation)
 ---
 
 ## Intro
 
 <div align="center">
-    <img src="./figs/Web.png" alt="Logo" width="85%">
+    <img src="./docs/images/Web.png" alt="Logo" width="85%">
 </div>
 <div align="justify">
 <b>Figure 1</b>: Schematic illustration of the evolution from siloed and platform-controlled agentic AI ecosystems to BetaWeb. (a) Current stage dominated by a few major giants, where users and agents are tightly connected within the ``walled garden'' of each platform, with only weak inter-platform links, reflecting digital feudalism concerns. (b) Conceptual open Agentic Web, where users and agents are globally connected, but face challenges such as privacy protection, coordination complexity, and incentive alignment. (c) Vision of BetaWeb, where decentralized infrastructure supports trustworthy, controllable, efficient, and fair interactions among globally connected users and agents.
@@ -57,7 +58,7 @@ We also welcome contributions! If you find relevant papers that should be includ
 | Stage 5 (S5) | Full Autonomy | Autonomous LaMAS with humans setting only the overarching direction |
 
 <div align="center">
-    <img src="./figs/Stages.png" alt="Logo" width="85%">
+    <img src="./docs/images/Stages.png" alt="Logo" width="85%">
 </div>
 <div align="justify">
 <b>Figure 2</b>: Five-stage evolution diagram of BetaWeb. Stage 1 (Isolated Silos) shows independent systems where humans drive all tasks, and agents are confined within their platforms with minimal outward interaction. Stage 2 (Pilot Decentralization) introduces cross-platform collaboration, but agentic workflows are completed under human supervision. Stage 3 (Assisted Execution) involves agents to undertake specialized duties, reducing the workload on humans. Stage 4 (Hybrid Governance) depicts large-scale distributed collaboration, where agents participate in governance while humans focus on high-value decisions. Stage 5 (Full Autonomy) represents a fully autonomous system where agents operate globally with end-to-end self-management without human intervention, requiring only the presentation of intents or goals.
@@ -168,18 +169,24 @@ We also welcome contributions! If you find relevant papers that should be includ
   - [Web3 Meets Behavioral Economics: An Example of Profitable Crypto Lottery Mechanism Design](https://arxiv.org/pdf/2206.03664) by Kentaroh Toyoda. 2023
   - [Agent Exchange: Shaping the Future of AI Agent Economics](https://arxiv.org/html/2507.03904v1) by Yingxuan Yang, Ying Wen, Jun Wang, Weinan Zhang. 2025
   - [Dynamic Pricing](https://docs.oracle.com/cd/G26828_02/books/PriceAdm/c-Dynamic-Pricing-Procedure-Workflow-td1021851.html)
-  - []
 
 
-## Co-governance by humans and agents
+## Hybrid Governance
 ### About Blockchain 
-
+- **LLM-Generated Contract**
+  - [On LLM-Assisted Generation of Smart Contracts from Business Processes](https://arxiv.org/html/2507.23087) by Fabian Stiehle, Hans Weytjens, Ingo Weber. 2025
+  - [Guiding LLM-based Smart Contract Generation with Finite State Machine](https://arxiv.org/abs/2505.08542) by Hao Luo, Yuhao Lin, Xiao Yan, Xintong Hu, Yuxiang Wang, Qiming Zeng, Hao Wang, Jiawei Jiang. 2025
+- **Validation Rule**
+  - [Vulnerability anti-patterns in Solidity: Increasing smart contracts security by reducing false alarms](https://arxiv.org/html/2410.17204v1) by Tommaso Oss, Carlos E. Budde. 2024
+  - [Transaction Proximity: A Graph-Based Approach to Blockchain Fraud Prevention](https://arxiv.org/html/2505.24284v1) by Gordon Liao, Ziming Zeng, Mira Belenkiy, Jacob Hirshman. 2025
 
 ### About LaMAS
-
-
-- [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444) by Xunjian Yin, Xinyi Wang, Liangming Pan, Li Lin, Xiaojun Wan, William Yang Wang. 2025
-
+- **Judging Agent**
+  - [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444) by Xunjian Yin, Xinyi Wang, Liangming Pan, Li Lin, Xiaojun Wan, William Yang Wang. 2025
+- **Self-Evolution**
+  - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046) by Huan-ang Gao, Jiayi Geng, Wenyue Hua, Mengkang Hu, Xinzhe Juan, Hongzhang Liu, Shilong Liu, Jiahao Qiu, Xuan Qi, Yiran Wu, Hongru Wang, Han Xiao, Yuhang Zhou, Shaokun Zhang, Jiayi Zhang, Jinyu Xiang, Yixiong Fang, Qiwen Zhao, Dongrui Liu, Qihan Ren, Cheng Qian, Zhenhailong Wang, Minda Hu, Huazheng Wang, Qingyun Wu, Heng Ji, Mengdi Wang. 2025
+  - [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073) by Zihan Wang, Kangrui Wang, Qineng Wang, Pingyue Zhang, Linjie Li, Zhengyuan Yang, Xing Jin, Kefan Yu, Minh Nhat Nguyen, Licheng Liu, Eli Gottlieb, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li. 2025
+  - [SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents](https://arxiv.org/abs/2508.02085) by Jiaye Lin, Yifu Guo, Yuzhen Han, Sen Hu, Ziyi Ni, Licheng Wang, Mingguang Chen, Daxin Jiang, Binxing Jiao, Chen Hu, Huacan Wang. 2025
 
 
 ## Self-governance of Fully Autonomous Agents
