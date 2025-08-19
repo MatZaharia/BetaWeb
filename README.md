@@ -183,6 +183,7 @@ We also welcome contributions! If you find relevant papers that should be includ
 ### About LaMAS
 - **Judging Agent**
   - [Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement](https://arxiv.org/abs/2410.04444) by Xunjian Yin, Xinyi Wang, Liangming Pan, Li Lin, Xiaojun Wan, William Yang Wang. 2025
+  - [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934) by Mingchen Zhuge, Changsheng Zhao, Dylan Ashley, Wenyi Wang, Dmitrii Khizbullin, Yunyang Xiong, Zechun Liu, Ernie Chang, Raghuraman Krishnamoorthi, Yuandong Tian, Yangyang Shi, Vikas Chandra, Jürgen Schmidhuber. 2024
 - **Self-Evolution**
   - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046) by Huan-ang Gao, Jiayi Geng, Wenyue Hua, Mengkang Hu, Xinzhe Juan, Hongzhang Liu, Shilong Liu, Jiahao Qiu, Xuan Qi, Yiran Wu, Hongru Wang, Han Xiao, Yuhang Zhou, Shaokun Zhang, Jiayi Zhang, Jinyu Xiang, Yixiong Fang, Qiwen Zhao, Dongrui Liu, Qihan Ren, Cheng Qian, Zhenhailong Wang, Minda Hu, Huazheng Wang, Qingyun Wu, Heng Ji, Mengdi Wang. 2025
   - [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073) by Zihan Wang, Kangrui Wang, Qineng Wang, Pingyue Zhang, Linjie Li, Zhengyuan Yang, Xing Jin, Kefan Yu, Minh Nhat Nguyen, Licheng Liu, Eli Gottlieb, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li. 2025
@@ -190,16 +191,32 @@ We also welcome contributions! If you find relevant papers that should be includ
 
 
 ## Self-governance of Fully Autonomous Agents
-
 ### About Blockchain 
+- **Runtime Verification Framework**
+  - [Runtime Verification for Business Processes Utilizing the Bitcoin Blockchain](https://arxiv.org/abs/1706.04404) by Christoph Prybila, Stefan Schulte, Christoph Hochreiner, Ingo Weber. 2017
+  - [Runtime Verification Tools](https://github.com/runtimeverification)
+- **Scalable and Efficient on-chain Governance Framework**
+  - [DAOs of Collective Intelligence? Unraveling the Complexity of Blockchain Governance in Decentralized Autonomous Organizations](https://arxiv.org/abs/2409.01823) by Mark C. Ballandies, Dino Carpentras, Evangelos Pournaras. 2025
+  - [Demystifying the DAO Governance Process](https://arxiv.org/abs/2403.11758) by Junjie Ma, Muhui Jiang, Jinan Jiang, Xiapu Luo, Yufeng Hu, Yajin Zhou, Qi Wang, Fengwei Zhang. 2024
+  - [Blockchain and the emergence of Decentralized Autonomous Organizations (DAOs): An integrative model and research agenda](https://www.sciencedirect.com/science/article/pii/S0040162522003304) by Carlos Santana, Laura Albareda. 2022
+- **On-Chain Self-Upgrade Protocol**
+  - [A Four-Tier Smart Contract Model with On-Chain Upgrade](https://www.researchgate.net/publication/367556064_A_Four-Tier_Smart_Contract_Model_with_On-Chain_Upgrade) by Zhiqiang Du, Hao Cheng, Yanfang Fu, Muhong Huang. 2023
+  - [Blockchain self-update smart contract for supply chain traceability with data validation](https://academic.oup.com/jigpal/advance-article/doi/10.1093/jigpal/jzae047/7670719) by Cristian Valencia-Payan , David Griol , Juan Carlos Corrales. 2024
 
 
 ### About LaMAS
-
-
-
-
-- [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934) by Mingchen Zhuge, Changsheng Zhao, Dylan Ashley, Wenyi Wang, Dmitrii Khizbullin, Yunyang Xiong, Zechun Liu, Ernie Chang, Raghuraman Krishnamoorthi, Yuandong Tian, Yangyang Shi, Vikas Chandra, Jürgen Schmidhuber. 2024
+- **Value-Constraint Learning**
+  - [Resolving Conflicting Constraints in Multi-Agent Reinforcement Learning with Layered Safety](https://arxiv.org/abs/2505.02293) by Jason J. Choi, Jasmine Jerry Aloor, Jingqi Li, Maria G. Mendoza, Hamsa Balakrishnan, Claire J. Tomlin. 2025
+  - [ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for Multi-Agent Coordination](https://arxiv.org/html/2507.19151) by Michael Amir, Guang Yang, Zhan Gao, Keisuke Okumura, Heedo Woo, Amanda Prorok. 2025
+  - [Constraining an Unconstrained Multi-agent Policy with offline data](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001327) by Cong Guan, Tao Jiang, Yi-Chen Li, Zongzhang Zhang, Lei Yuan, Yang Yu. 2025
+- **Value-Drift Monitor**
+  - [Better Estimation of the KL Divergence Between Language Models](https://arxiv.org/pdf/2504.10637) by Afra Amini, Tim Vieira, Ryan Cotterell. 2025
+  - [Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via χ2-Preference Optimization](https://arxiv.org/pdf/2407.13399) by Audrey Huang, Wenhao Zhan, Tengyang Xie, Jason D. Lee, Wen Sun, Akshay Krishnamurthy, Dylan J. Foster. 2025
+- **Decentralized Kill Switch**
+  - [The Feasibility of a Smart Contract “Kill Switch”](https://arxiv.org/pdf/2407.10302) by Oshani Seneviratne. 2024
+- **Agent Social Behavior Simulator**
+  - [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581) by Ziyi Yang, Zaibin Zhang, Zirui Zheng, Yuxian Jiang, Ziyue Gan, Zhiyu Wang, Zijian Ling, Jinsong Chen, Martz Ma, Bowen Dong, Prateek Gupta, Shuyue Hu, Zhenfei Yin, Guohao Li, Xu Jia, Lijun Wang, Bernard Ghanem, Huchuan Lu, Chaochao Lu, Wanli Ouyang, Yu Qiao, Philip Torr, Jing Shao. 2025
+  - [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/abs/2502.08691) by Jinghua Piao, Yuwei Yan, Jun Zhang, Nian Li, Junbo Yan, Xiaochong Lan, Zhihong Lu, Zhiheng Zheng, Jing Yi Wang, Di Zhou, Chen Gao, Fengli Xu, Fang Zhang, Ke Rong, Jun Su, Yong Li. 2025
 
 
 ## Citation
