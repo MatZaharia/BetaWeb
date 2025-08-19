@@ -55,7 +55,6 @@ We also welcome contributions! If you find relevant papers that should be includ
 | Stage 3 (S3) | Assisted Execution | Agent-assisted LaMAS freeing human labor |
 | Stage 4 (S4) | Hybrid Governance | Co-governed LaMAS relieving human cognitive burdens |
 | Stage 5 (S5) | Full Autonomy | Autonomous LaMAS with humans setting only the overarching direction |
-||||
 
 <div align="center">
     <img src="./figs/Stages.png" alt="Logo" width="85%">
