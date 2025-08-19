@@ -8,7 +8,7 @@
 
 ---
 
-The repository is for research paper **BetaWeb**, which proposes the blockchain-enabled trustworthy Agentic Web (BetaWeb, $\beta$-Web) and explores its evolutionary roadmap. Here, we hope to summarize the key technologies and related research at each stage to support better ecological development.
+The repository is for paper **BetaWeb**, which proposes the blockchain-enabled trustworthy Agentic Web (BetaWeb, $\beta$-Web) and explores its evolutionary roadmap. Here, we hope to summarize the key technologies and related research at each stage to support better ecological development.
 
 If your work is featured here and you would prefer it not to be included, feel free to contact us at <wcy0590@gmail.com> or <guozh29@mail2.sysu.edu.cn>. For any questions or feedback, we also welcome you to reach out via the same address. (This repository is under actively development. We appreciate any constructive comments and suggestions)
 
