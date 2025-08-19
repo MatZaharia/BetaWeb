@@ -100,29 +100,29 @@ We also welcome contributions! If you find relevant papers that should be includ
 - **Decentralized Identifier**
   - [A novel zero-trust identity framework for agentic ai: Decentralized authentication and fine-grained access control](https://arxiv.org/abs/2505.19301) by Ken Huang, Vineeth Sai Narajala, John Yeoh, Jason Ross, Ramesh Raskar, Youssef Harkati. 2025
   - [A Survey on Decentralized Identifiers and Verifiable Credentials](https://arxiv.org/html/2402.02455v1) by Carlo Mazzocca , Abbas Acar , Selcuk Uluagac , Rebecca Montanari , Paolo Bellavista. 2024
-- **Platform**: 
+- **Platform**
   - [Ethereum](https://ethereum.org/en/)
   - [Solana](https://solana.com/zh/docs/intro/quick-start)
   - [ChainMaker](https://search-docs.chainmaker.org.cn/v/2.3.7)
-- **Decentralized Storage**:
+- **Decentralized Storage**
   - [The InterPlanetary File System(IPFS)](https://docs.ipfs.tech/)
   - [The Arweave network](https://arweave.org/build)
-- **Light-Client Bridge**: 
+- **Light-Client Bridge**
   - [Light Clients for Lazy Blockchains](https://arxiv.org/html/2203.15968v3) by Ertem Nusret Tas, David Tse, Lei Yang, Dionysis Zindros. 2024
-- **Cross-Chain Bridge**: 
+- **Cross-Chain Bridge**
   - [The Inter-Blockchain Communication Protocol (IBC)](https://ibc.cosmos.network/v10/?_gl=1*44vf8p*_ga*MTkxNDI4NjM3MS4xNzU1NTczMDA1*_ga_HP8ZXWVLJG*czE3NTU1NzMwMDUkbzEkZzAkdDE3NTU1NzMwMDUkajYwJGwwJGg5ODc5MzI0NDQ.)
   - [LayerZero](https://docs.layerzero.network/v2)
   - [Wormhole](https://wormhole.com/docs/)
-- **Lightweight Consensus**: 
+- **Lightweight Consensus**
   - [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/abs/1803.05069) by Maofan Yin, Dahlia Malkhi, Michael K. Reiter, Guy Golan Gueta, Ittai Abraham. 2019
-- **Zero-Knowledge Proof**: 
+- **Zero-Knowledge Proof**
   - [Zero-Knowledge Proof Frameworks: A Systematic Survey](https://arxiv.org/abs/2502.07063) by Nojan Sheybani, Anees Ahmed, Michel Kinsy, Farinaz Koushanfar. 2025
 
 
 ### About LaMAS
-- **Blockchain-Based MAS**: 
+- **Blockchain-Based MAS**
   - [Towards Multi-Agent Economies: Enhancing the A2A Protocol with Ledger-Anchored Identities and x402 Micropayments for AI Agents](https://arxiv.org/html/2507.19550v1) by Awid Vaziry, Sandro Rodriguez Garzon, Axel Küpper. 2025
-- **Task Boundary Definition Language**: 
+- **Task Boundary Definition Language**
   - [Defining Boundaries: A Spectrum of Task Feasibility for Large Language Models](https://arxiv.org/html/2408.05873v1) by Wenbo Zhang, Zihang Xu, Hengrui Cai. 2024
 
 
@@ -130,21 +130,21 @@ We also welcome contributions! If you find relevant papers that should be includ
 
 ## Assisted Execution
 ### About Blockchain 
-- **Upgradeable Smart Contract**:
+- **Upgradeable Smart Contract**
   - [A Comprehensive Survey of Upgradeable Smart Contract Patterns](https://arxiv.org/pdf/2304.03405) by Sajad Meisami, William Edward Bodell III. 2023
   - [The Universal Upgradeable Proxy Standard (UUPS)](https://github.com/beskay/UUPS_Proxy)
-- **Rapid Logic-Patch Pipeline**:
+- **Rapid Logic-Patch Pipeline**
   - [Formal Verification of Smart Contracts](https://github.com/runtimeverification/verified-smart-contracts)
-- **Hybrid Consensus**:  
+- **Hybrid Consensus**
   - [Proof of Stake(PoS) Consensus](https://docs.polkadot.com/polkadot-protocol/architecture/polkadot-chain/pos-consensus/)
   - [SoK: DAG-based Consensus Protocols](https://arxiv.org/html/2411.10026v1)
-- **Static/Dynamic Security Audit Tools**:
+- **Static/Dynamic Security Audit Tools**
   - [Slither, the smart contract static analyzer](https://github.com/crytic/slither)
   - [MythX - Web3 Security Tools](https://docs.mythx.io/)
-- **Algorithmic Privacy:**:
+- **Algorithmic Privacy:**
   - [zero-knowledge Fully Homomorphic Encryption (zk-FHE)](https://zkfhe.github.io/)
   - [Multi-party Computation (MPC)](https://arxiv.org/abs/2112.13338)
-- **Hardware-Based Privacy:**:
+- **Hardware-Based Privacy:**
   - [A Survey of Secure Computation Using Trusted Execution Environments](https://arxiv.org/abs/2302.12150)
   - [Intel Software Guard Extensions(SGX)](https://github.com/intel/linux-sgx)
 
