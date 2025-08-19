@@ -1,4 +1,4 @@
-# <img src="./figs/Logo.png" alt="Logo" width="50" height="50" style="vertical-align: middle;"> BetaWeb: Towards a Blockchain-enabled Trust-worthy Agentic Web
+# <img src="./figs/Logo.png" alt="Logo" width="25" height="25" style="vertical-align: middle;"> BetaWeb: Towards a Blockchain-enabled Trust-worthy Agentic Web
 
 **[Zihan Guo](#)<sup>1,2</sup>   [Yuanjian Zhou](#)<sup>1</sup>   [Chenyi Wang](#)<sup>1,3</sup>   [Linlin You](#)<sup>2</sup>   [Minjie Bian](#)<sup>4</sup>   [Weinan Zhang](#)<sup>1,5\*</sup>**
 
