@@ -231,6 +231,7 @@ We also welcome contributions! If you find relevant papers that should be includ
   - [Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via χ2-Preference Optimization](https://arxiv.org/pdf/2407.13399) by Audrey Huang, Wenhao Zhan, Tengyang Xie, Jason D. Lee, Wen Sun, Akshay Krishnamurthy, Dylan J. Foster. 2025
 - **Decentralized Kill Switch**
   - [The Feasibility of a Smart Contract “Kill Switch”](https://arxiv.org/pdf/2407.10302) by Oshani Seneviratne. 2024
+  - [Smart Contract “Kill Switch”](https://docs.veritasprotocol.com/thesis/smart-contract-kill-switch)
 - **Agent Social Behavior Simulator**
   - [OASIS: Open Agent Social Interaction Simulations with One Million Agents](https://arxiv.org/abs/2411.11581) by Ziyi Yang, Zaibin Zhang, Zirui Zheng, Yuxian Jiang, Ziyue Gan, Zhiyu Wang, Zijian Ling, Jinsong Chen, Martz Ma, Bowen Dong, Prateek Gupta, Shuyue Hu, Zhenfei Yin, Guohao Li, Xu Jia, Lijun Wang, Bernard Ghanem, Huchuan Lu, Chaochao Lu, Wanli Ouyang, Yu Qiao, Philip Torr, Jing Shao. 2025
   - [AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/abs/2502.08691) by Jinghua Piao, Yuwei Yan, Jun Zhang, Nian Li, Junbo Yan, Xiaochong Lan, Zhihong Lu, Zhiheng Zheng, Jing Yi Wang, Di Zhou, Chen Gao, Fengli Xu, Fang Zhang, Ke Rong, Jun Su, Yong Li. 2025
