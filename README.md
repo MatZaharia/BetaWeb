@@ -8,7 +8,7 @@
 
 ---
 
-The repository is for paper **BetaWeb**, which proposes the blockchain-enabled trustworthy Agentic Web (BetaWeb, $\beta$-Web) and explores its evolutionary roadmap. Here, we hope to summarize the key technologies and related research at each stage to support better ecological development.
+The repository is for paper [**BetaWeb**](https://arxiv.org/abs/2508.13787), which proposes the blockchain-enabled trustworthy Agentic Web (BetaWeb, $\beta$-Web) and explores its evolutionary roadmap. Here, we hope to summarize the key technologies and related research at each stage to support better ecological development.
 
 If your work is featured here and you would prefer it not to be included, feel free to contact us at <wcy0590@gmail.com> or <guozh29@mail2.sysu.edu.cn>. For any questions or feedback, we also welcome you to reach out via the same address. (This repository is under actively development. We appreciate any constructive comments and suggestions)
 
@@ -31,7 +31,7 @@ We also welcome contributions! If you find relevant papers that should be includ
   - [Hybrid Governance](#hybrid-governance)
     - [About Blockchain](#about-blockchain-2)
     - [About LaMAS](#about-lamas-2)
-  - [Self-governance of Fully Autonomous Agents](#self-governance-of-fully-autonomous-agents)
+  - [Full Autonomy](#full-autonomy)
     - [About Blockchain](#about-blockchain-3)
     - [About LaMAS](#about-lamas-3)
   - [Citation](#citation)
@@ -105,6 +105,7 @@ We also welcome contributions! If you find relevant papers that should be includ
   - [Solana](https://solana.com/zh/docs/intro/quick-start)
   - [ChainMaker](https://search-docs.chainmaker.org.cn/v/2.3.7)
 - **Decentralized Storage**
+  - [An innovative IPFS-based storage model for blockchain](https://ieeexplore.ieee.org/abstract/document/8609675/) by Qiuhong Zheng, Yi Li, Ping Chen, Xinghua Dong. 2018
   - [The InterPlanetary File System(IPFS)](https://docs.ipfs.tech/)
   - [The Arweave network](https://arweave.org/build)
 - **Light-Client Bridge**
@@ -114,6 +115,8 @@ We also welcome contributions! If you find relevant papers that should be includ
   - [LayerZero](https://docs.layerzero.network/v2)
   - [Wormhole](https://wormhole.com/docs/)
 - **Lightweight Consensus**
+  - [The need for Lightweight Consensus algorithms in IoT environment: A review](https://dl.acm.org/doi/abs/10.1145/3675888.3676072) by Vatsala Upadhyay, Abhishek Vaish, J. Kokila. 2024
+  - [An artificial intelligence lightweight blockchain security model for security and privacy in IIoT systems](https://link.springer.com/article/10.1186/s13677-023-00412-y) by Shitharth Selvarajan, Gautam Srivastava, Alaa O. Khadidos, Adil O. Khadidos, Mohamed Baza, Ali Alshehri, Jerry Chun-Wei Lin. 2023 
   - [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/abs/1803.05069) by Maofan Yin, Dahlia Malkhi, Michael K. Reiter, Guy Golan Gueta, Ittai Abraham. 2019
 - **Zero-Knowledge Proof**
   - [Zero-Knowledge Proof Frameworks: A Systematic Survey](https://arxiv.org/abs/2502.07063) by Nojan Sheybani, Anees Ahmed, Michel Kinsy, Farinaz Koushanfar. 2025
@@ -122,6 +125,8 @@ We also welcome contributions! If you find relevant papers that should be includ
 ### About LaMAS
 - **Blockchain-Based MAS**
   - [Towards Multi-Agent Economies: Enhancing the A2A Protocol with Ledger-Anchored Identities and x402 Micropayments for AI Agents](https://arxiv.org/html/2507.19550v1) by Awid Vaziry, Sandro Rodriguez Garzon, Axel Küpper. 2025
+  - [mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture](https://arxiv.org/abs/2404.12135) by Wei Zhang, Hongcheng Guo, Jian Yang, Zhoujin Tian, Yi Zhang, Chaoran Yan et al. 2024
+  - [Blockagents: Towards byzantine-robust llm-based multi-agent coordination via blockchain](https://dl.acm.org/doi/abs/10.1145/3674399.3674445) by Bei Chen, Gaolei Li, Xi Lin, Zheng Wang, Jianhua Li. 2024
 - **Task Boundary Definition Language**
   - [Defining Boundaries: A Spectrum of Task Feasibility for Large Language Models](https://arxiv.org/html/2408.05873v1) by Wenbo Zhang, Zihang Xu, Hengrui Cai. 2024
 
@@ -137,20 +142,22 @@ We also welcome contributions! If you find relevant papers that should be includ
   - [Formal Verification of Smart Contracts](https://github.com/runtimeverification/verified-smart-contracts)
 - **Hybrid Consensus**
   - [Proof of Stake(PoS) Consensus](https://docs.polkadot.com/polkadot-protocol/architecture/polkadot-chain/pos-consensus/)
-  - [SoK: DAG-based Consensus Protocols](https://arxiv.org/html/2411.10026v1)
+  - [SoK: DAG-based Consensus Protocols](https://ieeexplore.ieee.org/abstract/document/10634358/) by Mayank Raikwar, Nikita Polyanskii, Sebastian Müller. 2024
 - **Static/Dynamic Security Audit Tools**
   - [Slither, the smart contract static analyzer](https://github.com/crytic/slither)
   - [MythX - Web3 Security Tools](https://docs.mythx.io/)
 - **Algorithmic Privacy:**
   - [zero-knowledge Fully Homomorphic Encryption (zk-FHE)](https://zkfhe.github.io/)
-  - [Multi-party Computation (MPC)](https://arxiv.org/abs/2112.13338)
+  - [MPCLeague: Robust MPC Platform for Privacy-Preserving Machine Learning](https://arxiv.org/abs/2112.13338) by Ajith Suresh. 2021
 - **Hardware-Based Privacy:**
-  - [A Survey of Secure Computation Using Trusted Execution Environments](https://arxiv.org/abs/2302.12150)
+  - [A Survey of Secure Computation Using Trusted Execution Environments](https://arxiv.org/abs/2302.12150) by Xiaoguo Li, Bowen Zhao, Guomin Yang, Tao Xiang, Jian Weng, Robert H. Deng. 2023
   - [Intel Software Guard Extensions(SGX)](https://github.com/intel/linux-sgx)
 
 ### About LaMAS
 - **Agent Capability Certification**
   - [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983) by Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom. 2023
+  - [Safearena: Evaluating the safety of autonomous web agents](https://arxiv.org/abs/2503.04957) by Ada Defne Tur, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Esin Durmus et al. 2025
+  - [Agent Capability Negotiation and Binding Protocol (ACNBP)](https://arxiv.org/abs/2506.13590) by Ken Huang, Akram Sheriff, Vineeth Sai Narajala, Idan Habler. 2025
 - **Agent Capability in Planning**
   - [Agent Planning with World Knowledge Model](https://arxiv.org/abs/2405.14205) by Shuofei Qiao, Runnan Fang, Ningyu Zhang, Yuqi Zhu, Xiang Chen, Shumin Deng, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. 2025
   - [Agent-Oriented Planning in Multi-Agent Systems](https://arxiv.org/abs/2410.02189) by Ao Li, Yuexiang Xie, Songze Li, Fugee Tsung, Bolin Ding, Yaliang Li. 2025
@@ -176,9 +183,17 @@ We also welcome contributions! If you find relevant papers that should be includ
 - **LLM-Generated Contract**
   - [On LLM-Assisted Generation of Smart Contracts from Business Processes](https://arxiv.org/html/2507.23087) by Fabian Stiehle, Hans Weytjens, Ingo Weber. 2025
   - [Guiding LLM-based Smart Contract Generation with Finite State Machine](https://arxiv.org/abs/2505.08542) by Hao Luo, Yuhao Lin, Xiao Yan, Xintong Hu, Yuxiang Wang, Qiming Zeng, Hao Wang, Jiawei Jiang. 2025
+- **On-chain Knowledge Pool**
+  - [Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration](https://arxiv.org/abs/2412.13551) by Xuhan Zuo, Minghao Wang, Tianqing Zhu, Shui Yu, Wanlei Zhou. 2024
+  - [AIArena: A Blockchain-Based Decentralized AI Training Platform](https://dl.acm.org/doi/abs/10.1145/3701716.3715484) by Zhipeng Wang, Rui Sun, Elizabeth Lui, Tuo Zhou, Yizhe Wen, Jiahao Sun. 2025
+  - [Constructing Effective Customer Feedback Systems -- A Design Science Study Leveraging Blockchain Technology](https://arxiv.org/abs/2203.15254) by Mark C. Ballandies, Valentin Holzwarth, Barry Sunderland, Evangelos Pournaras, Jan vom Brocke. 2023
 - **Validation Rule**
   - [Vulnerability anti-patterns in Solidity: Increasing smart contracts security by reducing false alarms](https://arxiv.org/html/2410.17204v1) by Tommaso Oss, Carlos E. Budde. 2024
   - [Transaction Proximity: A Graph-Based Approach to Blockchain Fraud Prevention](https://arxiv.org/html/2505.24284v1) by Gordon Liao, Ziming Zeng, Mira Belenkiy, Jacob Hirshman. 2025
+- **Human Veto**
+  - [Enhancing Responsible AGI Development: Integrating Human-in-the-loop Approaches with Blockchain-based Smart Contracts](http://catalog.journals4promo.com/id/eprint/1617/) by Mahesh Vaijainthymala Krishnamoorthy. 2025
+  - [Human-AI Collaboration in Workflow Optimization: A Framework for Hybrid Decision Systems in Automation-Heavy Industries](https://d1wqtxts1xzle7.cloudfront.net/121624930/CSEIT251112384-libre.pdf?1740974417=&response-content-disposition=inline%3B+filename%3DHuman_AI_Collaboration_in_Workflow_Optim.pdf&Expires=1755660713&Signature=Y1AS5CtDvstj-31K94sd0FTM3ZlmfBPoIVm1dD0pGkHODef7OSoLjMB2y11dI3bvn-JvQS~5Rmp0IBU40pBVJ1CSCiL5YcPZ6TIwfqJvEeZ~inpedIGMjNj-2jYZknOA9eXAXUCnfqzqsG0hPUcWd8aPWeifsh7xdStvgjiPzUD4Jq4eVCd0zIALHRUzYgY6NMID8AYQBL2ED7kqwGsWMqYMghTIoRIaO0dWOD0P09a8lXoj7yv6CnLekGOumEI8MBFpnV5JuYKxNSRd9IK2i8ZnwALcspTUoufXMcRuzxklTleHMGXIhzCsxXJ2o7iHHizuD1uQP3RqQEFv~105OQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) by Rajarshi Tarafdar. 2025 
+  - [A Multi-Dimensional Ontology](hthttps://d1wqtxts1xzle7.cloudfront.net/123848890/TEO-libre.pdf?1752890512=&response-content-disposition=inline%3B+filename%3DA_Multi_Dimensional_Ontology.pdf&Expires=1755661000&Signature=fnWsfbqep1bQBIYXV8rFJn1sY2G8i8Ot6WdjrlQecXlB5negT-rO-YetUiYCqxSkdoO1C~5iuW8liKFq~Ikp~CmJM2Y4Fcqn27Xmqophk3oNvak2s80zSTPOsWF9Y~miaRZ8Ig66fFVObTQFZ6wphw2KZhC0xOkQSyQP8Rjlu2JAxuW2BMcC-bLxsczidN1nfTl5fr9YEhEr~rEmaiCzPswEzEBCrCCIGun4LGaeGWfUmS5UakOh7eI0tTAGkhM9dYxOnj5XuFo93IxYRBy1wLllZhppwgKZT4bKyqxiQieAZMXiU~bX3MZdyBGVEyedRHC0GvRC8tS-ASlPhqBLtg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) by Flávio J. Ávila. 2025
 
 ### About LaMAS
 - **Judging Agent**
@@ -188,9 +203,11 @@ We also welcome contributions! If you find relevant papers that should be includ
   - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046) by Huan-ang Gao, Jiayi Geng, Wenyue Hua, Mengkang Hu, Xinzhe Juan, Hongzhang Liu, Shilong Liu, Jiahao Qiu, Xuan Qi, Yiran Wu, Hongru Wang, Han Xiao, Yuhang Zhou, Shaokun Zhang, Jiayi Zhang, Jinyu Xiang, Yixiong Fang, Qiwen Zhao, Dongrui Liu, Qihan Ren, Cheng Qian, Zhenhailong Wang, Minda Hu, Huazheng Wang, Qingyun Wu, Heng Ji, Mengdi Wang. 2025
   - [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073) by Zihan Wang, Kangrui Wang, Qineng Wang, Pingyue Zhang, Linjie Li, Zhengyuan Yang, Xing Jin, Kefan Yu, Minh Nhat Nguyen, Licheng Liu, Eli Gottlieb, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li. 2025
   - [SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents](https://arxiv.org/abs/2508.02085) by Jiaye Lin, Yifu Guo, Yuzhen Han, Sen Hu, Ziyi Ni, Licheng Wang, Mingguang Chen, Daxin Jiang, Binxing Jiao, Chen Hu, Huacan Wang. 2025
+- **Human-Agent Co-Governance**
+  - [Bridging AI & Human Cognition for Public Interest: A Human-Centric Co-Governance Framework for Auditing Fairness and Preserving Trust in Digital Ecosystems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5048379) by Meriem Mehri. 2024
 
 
-## Self-governance of Fully Autonomous Agents
+## Full Autonomy
 ### About Blockchain 
 - **Runtime Verification Framework**
   - [Runtime Verification for Business Processes Utilizing the Bitcoin Blockchain](https://arxiv.org/abs/1706.04404) by Christoph Prybila, Stefan Schulte, Christoph Hochreiner, Ingo Weber. 2017
@@ -222,8 +239,10 @@ We also welcome contributions! If you find relevant papers that should be includ
 ## Citation
 If you find the repository useful, please cite the study
 ``` Bash
-@article{
-
+@article{guo2025betaweb,
+      title={BetaWeb: Towards a Blockchain-enabled Trustworthy Agentic Web}, 
+      author={Zihan Guo and Yuanjian Zhou and Chenyi Wang and Linlin You and Minjie Bian and Weinan Zhang},
+      year={2025},
+      journal={arXiv preprint arXiv:2508.13787},
 }
-
 ```
